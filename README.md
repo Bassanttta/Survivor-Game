@@ -1,7 +1,7 @@
 # :rocket:*Survivor Game*
 
 #### *Visual Programming Project*
-#### *Simple Game that uses C# basics & enforces some of basic Viusal Programming concepts*
+#### *Simple Game that uses C# basics & enforces some of Viusal Programming concepts basics*
 
 _______________
 ### :hourglass_flowing_sand:*Project Mentors* 
