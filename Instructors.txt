@@ -1,0 +1,3 @@
+Movements: Directional keys
+To fire  : Press Space Bar
+To Drop Med : Press Z Key
