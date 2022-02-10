@@ -1,4 +1,4 @@
-# :rocket:*Survivor Game*
+# :video_game:*Survivor Game*
 
 #### *Visual Programming Project*
 #### *Simple Game that uses C# basics & enforces some of Viusal Programming concepts basics*
